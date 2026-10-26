@@ -36,12 +36,12 @@ p{
 }
 
 .wrapper{
-    width: 960px;
+    width: 930px;
     margin: 0 auto;
 }
 
 .hero-banner{
-    background-color: #c33f1e;
+    background-color: #2a3588;
     min-height: 60vh;
     padding: 50px 20px;
     box-sizing: border-box;
@@ -94,14 +94,14 @@ p{
 
 a.cta,
 button.cta{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     color:white;
     background: #007FFF;
     display: inline-block;
     /*outline: 10px solid rgba(0,127,255,.15); */
     box-shadow: 0 0 0 10px rgba(0,127,255,.15);
-    padding: 20px 30px;
+    padding: 10px 20px;
     border-radius: 10px;
     text-decoration: none;
     outline: none;
@@ -116,9 +116,10 @@ button.cta:active{
 
 a.cta.alt,
 button.cta.alt{
-    background-color: #FFD400;
+    background-color: #ffc400;
     color: black;
-    box-shadow: 0 0 0 10px rgba(0,0,0,.15);
+    
+    box-shadow: 0 0 0 5px rgba(0,0,0,.15);
 }
 nav{
     height: 100px;
@@ -376,16 +377,6 @@ left: 0;
     that didn’t conform out of their gang,
     which was called the Right Angled Gang.</p>
 
-    <p>And so these 3 shapes were
-    very sad, but found great joy and comfort 
-    being around each other. 
-    They soon started having a lot of fun, 
-    started rocking and rolling, started being silly, 
-    and became the most well-known shape gang in the universe.
-    They even started making fun of squares and rectangles 
-    in what they like to call ‘Square Offs’!
-    </p>
-  
 
     </div>
    
